@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+tensorflow
+keras
+
+# GUI for File Picker (used in Disease Prediction)
+tk
